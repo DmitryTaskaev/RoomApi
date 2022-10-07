@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RoomPost</string>
+    <string name="Up">+1</string>
+    <string name="Down">-1</string>
+    <string name="name">Управление</string>
+    <string name="tv">Телевизор</string>
+    <string name="cond">Кондиционер</string>
+    <string name="light">Свет</string>
+    <string name="lights">Включить/выключить</string>
+</resources>
